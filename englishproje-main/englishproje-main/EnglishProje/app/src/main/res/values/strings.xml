@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EnglishProje</string>
+    <string-array name="Diller">
+        <item>Türkçe</item>
+        <item>İngilizce</item>
+    </string-array>
+
+    <string-array name="Turkce">
+        <item>Türkçe</item>
+    </string-array>
+
+    <string-array name="Ingilizce">
+        <item>İngilizce</item>
+    </string-array>
+</resources>
